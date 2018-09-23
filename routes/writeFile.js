@@ -1,6 +1,5 @@
 const express = require('express');
 const fs = require('fs');
-const formidable = require('formidable');
 const mv = require('mv');
 const mkdirp = require('mkdirp');
 
